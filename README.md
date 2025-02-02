@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanyaa&label=Profile%20views&color=0e75b6&style=flat" alt="imanyaa" /> </p>
 
-- 🔭 I’m currently working on **Currently developing an Event Management System app using Flutter and Firebase.
+- 🔭 I’m currently working on Currently developing an Event Management System app using Flutter and Firebase.
 - Working on a Package-Delivering Drone Project for a university assignment.
 
 - 📫 How to reach me **ronadissanayake003@gmail.com**
